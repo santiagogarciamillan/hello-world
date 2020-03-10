@@ -1,3 +1,3 @@
 # hello-world
-ejemplo inicial 
+ejemplo  
 Pues que voy a poner algo acerca de mi y de ti 
